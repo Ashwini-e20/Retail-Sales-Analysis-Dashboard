@@ -67,6 +67,8 @@ SQL queries were written to solve business problems, including:
 **OVERVIEW**
 This dashboard was developed in **Power BI** to visually represent the insights gained from the SQL retail sales analysis. It transforms raw data into an interactive interface that highlights trends, patterns, and key business metrics.
 
+![Retail Sales Dashboard](dashboard.png)
+
 **FEATURES**
 - **Sales Overview**: Displays total sales, total orders, and revenue trends.
 - **Category Performance**: Identifies best-performing product categories and their share in total revenue.
